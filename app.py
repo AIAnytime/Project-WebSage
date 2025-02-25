@@ -256,4 +256,4 @@ elif page == "Contact":
 
     - **YouTube:** Watch the demonstration video below!
     """)
-    st.video("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    st.video("https://youtu.be/5wJsW9LGgr8")
