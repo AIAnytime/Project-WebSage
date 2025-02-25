@@ -251,7 +251,7 @@ elif page == "Contact":
     - **GitHub:** [AIAnytime](https://github.com/AIAnytime)  
       _Contributions are welcome – fork the repository and submit a PR!_
 
-    - **LinkedIn:** [Sonu Kymar](https://www.linkedin.com/in/sonu-kymar)  
+    - **LinkedIn:** [Sonu Kymar](https://www.linkedin.com/in/sonukr0/)  
       _Feel free to reach out on LinkedIn for collaborations or questions._
 
     - **YouTube:** Watch the demonstration video below!
